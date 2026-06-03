@@ -9,7 +9,20 @@ As a Junior System Administrator, I am responsible for supporting users, maintai
 This repository demonstrates the practical administration tasks, technologies, and troubleshooting activities performed in a production environment.
 
 ---
+## Infrastructure Overview
 
+```text
+Windows Server Environment
+│
+├── Active Directory
+├── DNS
+├── DHCP
+├── File Server
+├── Network Drives
+├── NAS Backup Storage
+├── VPN Services
+└── User Management
+```
 # Environment
 
 ## Server Infrastructure
